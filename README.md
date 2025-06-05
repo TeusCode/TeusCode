@@ -18,7 +18,7 @@ Atualmente, curso faculdade de Engenharia da Computação e estou apaixonado por
 
 ## Contato 📬
 
-- [LinkedIn](https://www.linkedin.com/in/mateus-vila%C3%A7a-642b18220/)  
+- Profissional: [LinkedIn](https://www.linkedin.com/in/mateus-vila%C3%A7a-642b18220/)  
 - E-mail: mateusdasilvavilaca@gmail.com  
 - Instagram: [@mateussilvavilaca](https://www.instagram.com/mateussilvavilaca)  
 
