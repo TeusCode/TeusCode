@@ -2,23 +2,33 @@
 
 ### 🎓 Estudante de Engenharia de Software | Futuro Full Stack Developer
 
-Atualmente focado em dominar o desenvolvimento web e construir soluções completas, do front-end ao back-end.
+Construindo uma base sólida em Engenharia de Software e me especializando no ecossistema JavaScript/TypeScript.
 
 ---
 
-### 🛠️ Tecnologias e Estudos
+### 🛠️ Tecnologias e Objetivos de Estudo
+
+**Foco Atual:**
 <p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**Trilha de Especialização (Em progresso):**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
 ### 🧑‍💻 Sobre mim
 - 📚 Cursando **Engenharia de Software**.
-- 🚀 Em busca de me tornar um desenvolvedor **Full Stack**.
-- 💡 Focado em lógica de programação e projetos práticos.
+- 🚀 No caminho para me tornar um desenvolvedor **Full Stack**.
+- 💡 Focado em aprender padrões de projeto e código limpo.
 
 ---
 
