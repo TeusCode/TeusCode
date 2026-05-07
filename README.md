@@ -1,46 +1,45 @@
-# Olá, eu sou o Saaid! 👋
+# Olá, eu sou o Mateus Vilaça! 👋
 
-### 👨‍💻 Full Stack Developer no Grupo Amaro
+### 🎓 Estudante de Engenharia de Software & Futuro Desenvolvedor Full Stack
 
-Sou formado em **Análise e Desenvolvimento de Sistemas pela UNIP** e atuo como desenvolvedor Full Stack, focado em criar soluções eficientes e escaláveis.
-
----
-
-### 🚀 Criador de Conteúdo Tech
-Além de codar, compartilho conhecimento e dicas sobre o mundo da tecnologia nas minhas redes sociais:
-
-* **TikTok:** [130k+ Seguidores](https://www.tiktok.com/@saaidzy)
-* **Instagram:** [7k+ Seguidores](https://www.instagram.com/saaidzy)
-* **LinkedIn:** [4k+ Conexões](https://www.linkedin.com/in/saaidmohanna)
+Recentemente fiz a transição para o curso de **Engenharia de Software**, focando em aprender a projetar, desenvolver e manter sistemas complexos. Meu objetivo principal é me tornar um desenvolvedor **Full Stack**, dominando desde a interface do usuário até a lógica do servidor e bancos de dados.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias que estou estudando
 
-Aqui estão algumas das tecnologias com as quais trabalho no meu dia a dia:
+No momento, estou consolidando minha base no Front-end e iniciando meus passos no ecossistema Full Stack:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
-### 📫 Entre em contato
-Sinta-se à vontade para me mandar uma mensagem para parcerias ou networking!
+### 🧑‍💻 Sobre mim
 
-📧 **E-mail:** [saaidmohanna@gmail.com](mailto:saaidmohanna@gmail.com)
+- 🔄 **Transição de Carreira:** Mudei para **Engenharia de Software** para focar 100% no desenvolvimento de sistemas.
+- 🎯 **Objetivo:** Me tornar um Desenvolvedor Full Stack, unindo design intuitivo com back-end robusto.
+- 💡 **Foco Atual:** Aprimorar lógica de programação e arquitetura de software.
+- 🚀 **Mindset:** Sempre buscando desafios que me tirem da zona de conforto.
+
+---
+
+### 📫 Vamos nos conectar?
+
+Seja para um networking, troca de conhecimentos ou oportunidades, sinta-se à vontade para me chamar!
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mateus-vila%C3%A7a-642b18220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/mateussilvavilaca" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:mateusdasilvavilaca@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saaidzy&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <i>"O sucesso é construído um commit de cada vez."</i><br>
+  Obrigado por visitar meu perfil! ✌️
 </p>
