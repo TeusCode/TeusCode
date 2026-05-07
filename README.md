@@ -43,3 +43,4 @@ Seja para um networking, troca de conhecimentos ou oportunidades, sinta-se à vo
   <i>"O sucesso é construído um commit de cada vez."</i><br>
   Obrigado por visitar meu perfil! ✌️
 </p>
+  
